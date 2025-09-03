@@ -1,0 +1,14 @@
+h2 {
+    color: orangered;
+}
+
+#id1 {
+    color: blueviolet;
+}
+
+img {
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.405);
+    border-radius: 5px;
+
+   
+}
