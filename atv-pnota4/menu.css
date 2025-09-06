@@ -1,0 +1,33 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgb(7, 1, 48);
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul a:hover {
+    color:yellow;
+    background: black;
+}
+
+body {
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+nav ul li{
+    margin: 10px;
+
+}
+
